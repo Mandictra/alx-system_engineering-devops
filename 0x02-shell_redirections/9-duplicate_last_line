@@ -1,0 +1,2 @@
+#!/bin/ash
+tail -n iacta >> iacta
